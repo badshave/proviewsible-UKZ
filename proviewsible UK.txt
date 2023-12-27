@@ -1,0 +1,244 @@
+#EXTINF:-1,Sky Sports Action FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485230.m3u8
+#EXTINF:-1,Sky Sports Arena FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485231.m3u8
+#EXTINF:-1,Sky Sports Box Office FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2484998.m3u8
+#EXTINF:-1,Sky Sports Cricket FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485226.m3u8
+#EXTINF:-1,Sky Sports F1 FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485229.m3u8
+#EXTINF:-1,Sky Sports Football FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485225.m3u8
+#EXTINF:-1,Sky Sports Golf FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485227.m3u8
+#EXTINF:-1,Sky Sports Main Event FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485223.m3u8
+#EXTINF:-1,Sky Sports Mix FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485232.m3u8
+#EXTINF:-1,Sky Sports News FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485222.m3u8
+#EXTINF:-1,Sky Sports Premier League FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485224.m3u8
+#EXTINF:-1,Sky Sports Racing FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485228.m3u8
+#EXTINF:-1,MY: Astro Supersport 1
+http://tigerfights.xyz:80/0192613623/0269238101/3334161.m3u8
+#EXTINF:-1,MY: Astro Supersport 2
+http://tigerfights.xyz:80/0192613623/0269238101/3334294.m3u8
+#EXTINF:-1,MY: Astro Supersport 3
+http://tigerfights.xyz:80/0192613623/0269238101/3334295.m3u8
+#EXTINF:-1,MY: Astro Supersport 4
+http://tigerfights.xyz:80/0192613623/0269238101/3334296.m3u8
+#EXTINF:-1,MY: Astro Supersport 5 50fps
+http://tigerfights.xyz:80/0192613623/0269238101/3334166.m3u8
+#EXTINF:-1,MY: Astro SuperSport Events 6
+http://tigerfights.xyz:80/0192613623/0269238101/3334231.m3u8
+#EXTINF:-1,MY: LIVE Astro SuperSport Events 1 HD
+http://tigerfights.xyz:80/0192613623/0269238101/3334277.m3u8
+#EXTINF:-1,MY: LIVE Astro SuperSport Events 2 HD
+http://tigerfights.xyz:80/0192613623/0269238101/3334276.m3u8
+#EXTINF:-1,MY: LIVE Astro SuperSport Events 3 HD
+http://tigerfights.xyz:80/0192613623/0269238101/3334275.m3u8
+#EXTINF:-1,MY: LIVE Astro SuperSport Events 4 HD
+http://tigerfights.xyz:80/0192613623/0269238101/3334305.m3u8
+#EXTINF:-1,MY: LIVE Astro SuperSport Events 5 HD
+http://tigerfights.xyz:80/0192613623/0269238101/3334301.m3u8
+#EXTINF:-1,Amazon UK Event FHD 10
+http://tigerfights.xyz:80/0192613623/0269238101/3318681.m3u8
+#EXTINF:-1,Amazon UK Event FHD 1
+http://tigerfights.xyz:80/0192613623/0269238101/3318690.m3u8
+#EXTINF:-1,Amazon UK Event FHD 2
+http://tigerfights.xyz:80/0192613623/0269238101/3318689.m3u8
+#EXTINF:-1,Amazon UK Event FHD 3
+http://tigerfights.xyz:80/0192613623/0269238101/3318688.m3u8
+#EXTINF:-1,Amazon UK Event FHD 4
+http://tigerfights.xyz:80/0192613623/0269238101/3318687.m3u8
+#EXTINF:-1,Amazon UK Event FHD 5
+http://tigerfights.xyz:80/0192613623/0269238101/3318686.m3u8
+#EXTINF:-1,Amazon UK Event FHD 6
+http://tigerfights.xyz:80/0192613623/0269238101/3318685.m3u8
+#EXTINF:-1,Amazon UK Event FHD 7
+http://tigerfights.xyz:80/0192613623/0269238101/3318684.m3u8
+#EXTINF:-1,Amazon UK Event FHD 8
+http://tigerfights.xyz:80/0192613623/0269238101/3318683.m3u8
+#EXTINF:-1,Amazon UK Event FHD 9
+http://tigerfights.xyz:80/0192613623/0269238101/3318682.m3u8
+#EXTINF:-1,Arsenal - EPL - Premier League
+http://tigerfights.xyz:80/0192613623/0269238101/2075193.m3u8
+#EXTINF:-1,Aston Villa - EPL - Premier League
+http://tigerfights.xyz:80/0192613623/0269238101/2075194.m3u8
+#EXTINF:-1,ATN Bangla (Indian)
+http://tigerfights.xyz:80/0192613623/0269238101/2485196.m3u8
+#EXTINF:-1,AU Optus 1
+http://tigerfights.xyz:80/0192613623/0269238101/2567852.m3u8
+#EXTINF:-1,AU Optus 10
+http://tigerfights.xyz:80/0192613623/0269238101/2567861.m3u8
+#EXTINF:-1,AU Optus 11
+http://tigerfights.xyz:80/0192613623/0269238101/2567862.m3u8
+#EXTINF:-1,AU Optus 12
+http://tigerfights.xyz:80/0192613623/0269238101/2567863.m3u8
+#EXTINF:-1,AU Optus 2
+http://tigerfights.xyz:80/0192613623/0269238101/2567853.m3u8
+#EXTINF:-1,AU Optus 3
+http://tigerfights.xyz:80/0192613623/0269238101/2567854.m3u8
+#EXTINF:-1,AU Optus 4
+http://tigerfights.xyz:80/0192613623/0269238101/2567855.m3u8
+#EXTINF:-1,AU Optus 5
+http://tigerfights.xyz:80/0192613623/0269238101/2567856.m3u8
+#EXTINF:-1,AU Optus 6
+http://tigerfights.xyz:80/0192613623/0269238101/2567857.m3u8
+#EXTINF:-1,AU Optus 7
+http://tigerfights.xyz:80/0192613623/0269238101/2567858.m3u8
+#EXTINF:-1,AU Optus 8
+http://tigerfights.xyz:80/0192613623/0269238101/2567859.m3u8
+#EXTINF:-1,AU Optus 9
+http://tigerfights.xyz:80/0192613623/0269238101/2567860.m3u8
+#EXTINF:-1,AU STAN Event 1
+http://tigerfights.xyz:80/0192613623/0269238101/3318740.m3u8
+#EXTINF:-1,AU STAN Event 2
+http://tigerfights.xyz:80/0192613623/0269238101/3318741.m3u8
+#EXTINF:-1,AU STAN Event 3
+http://tigerfights.xyz:80/0192613623/0269238101/3318742.m3u8
+#EXTINF:-1,AU STAN Event 4
+http://tigerfights.xyz:80/0192613623/0269238101/3318743.m3u8
+#EXTINF:-1,AU STAN Event 5
+http://tigerfights.xyz:80/0192613623/0269238101/3318744.m3u8
+#EXTINF:-1,AU STAN Event 6
+http://tigerfights.xyz:80/0192613623/0269238101/3318745.m3u8
+#EXTINF:-1,AU STAN Event 7
+http://tigerfights.xyz:80/0192613623/0269238101/3318746.m3u8
+#EXTINF:-1,AU STAN Event 8
+http://tigerfights.xyz:80/0192613623/0269238101/3318747.m3u8
+#EXTINF:-1,AU STAN Event 9
+http://tigerfights.xyz:80/0192613623/0269238101/3318748.m3u8
+#EXTINF:-1,AU STAN Event 10
+http://tigerfights.xyz:80/0192613623/0269238101/3318749.m3u8
+#EXTINF:-1,AU STAN Event 11
+http://tigerfights.xyz:80/0192613623/0269238101/3318750.m3u8
+#EXTINF:-1,AU STAN Event 12
+http://tigerfights.xyz:80/0192613623/0269238101/3318751.m3u8
+#EXTINF:-1,AU STAN Event 13
+http://tigerfights.xyz:80/0192613623/0269238101/3318752.m3u8
+#EXTINF:-1,AU STAN Event 14
+http://tigerfights.xyz:80/0192613623/0269238101/3318753.m3u8
+#EXTINF:-1,AU STAN Event 15
+http://tigerfights.xyz:80/0192613623/0269238101/3318754.m3u8
+#EXTINF:-1,AU STAN Event 16
+http://tigerfights.xyz:80/0192613623/0269238101/3318755.m3u8
+#EXTINF:-1,AU STAN Event 17
+http://tigerfights.xyz:80/0192613623/0269238101/3318756.m3u8
+#EXTINF:-1,AU STAN Event 18
+http://tigerfights.xyz:80/0192613623/0269238101/3318757.m3u8
+#EXTINF:-1,AU STAN Event 19
+http://tigerfights.xyz:80/0192613623/0269238101/3318758.m3u8
+#EXTINF:-1,AU STAN Event 20
+http://tigerfights.xyz:80/0192613623/0269238101/3318759.m3u8
+#EXTINF:-1,Barnsley - EFL - Championship
+http://tigerfights.xyz:80/0192613623/0269238101/2485752.m3u8
+#EXTINF:-1,Barrow EFL League Two
+http://tigerfights.xyz:80/0192613623/0269238101/2485799.m3u8
+#EXTINF:-1,Beosport 01: ULSTER Schools Rannafast Cup - St Patrick's Maghera v St Macartan's Monaghan |  Thu 3rd 6:25PM | pending
+http://tigerfights.xyz:80/0192613623/0269238101/3318566.m3u8
+#EXTINF:-1,Beosport 02: AIB All-Ireland JFC SF - Gneeveguilla v Denn |  Sat 29th 1:25PM | pending
+http://tigerfights.xyz:80/0192613623/0269238101/3318567.m3u8
+#EXTINF:-1,Beosport 03: ULSTER EIRGRID U20 Football Championship QF - Donegal v Armagh |  Fri 1st 6:55PM |
+http://tigerfights.xyz:80/0192613623/0269238101/3318568.m3u8
+#EXTINF:-1,Beosport 04:
+http://tigerfights.xyz:80/0192613623/0269238101/3318569.m3u8
+#EXTINF:-1,Beosport 05:
+http://tigerfights.xyz:80/0192613623/0269238101/3318570.m3u8
+#EXTINF:-1,Beosport 06:
+http://tigerfights.xyz:80/0192613623/0269238101/3318571.m3u8
+#EXTINF:-1,Beosport 07:
+http://tigerfights.xyz:80/0192613623/0269238101/3318572.m3u8
+#EXTINF:-1,Beosport 08:
+http://tigerfights.xyz:80/0192613623/0269238101/3318573.m3u8
+#EXTINF:-1,Beosport 09:
+http://tigerfights.xyz:80/0192613623/0269238101/3318574.m3u8
+#EXTINF:-1,Beosport 10:
+http://tigerfights.xyz:80/0192613623/0269238101/3318575.m3u8
+#EXTINF:-1,Beosport 11:
+http://tigerfights.xyz:80/0192613623/0269238101/3318576.m3u8
+#EXTINF:-1,Beosport 12:
+http://tigerfights.xyz:80/0192613623/0269238101/3318577.m3u8
+#EXTINF:-1,Beosport 13:
+http://tigerfights.xyz:80/0192613623/0269238101/3318578.m3u8
+#EXTINF:-1,Betfred TV
+http://tigerfights.xyz:80/0192613623/0269238101/2567911.m3u8
+#EXTINF:-1,Carib: Rush Sports
+http://tigerfights.xyz:80/0192613623/0269238101/1793170.m3u8
+#EXTINF:-1,Carib: Rush Sports 2
+http://tigerfights.xyz:80/0192613623/0269238101/1793273.m3u8
+#EXTINF:-1,Carib: Rush Sports 3
+http://tigerfights.xyz:80/0192613623/0269238101/1793272.m3u8
+#EXTINF:-1,Carib: Rush Sports 4
+http://tigerfights.xyz:80/0192613623/0269238101/1793271.m3u8
+#EXTINF:-1,Carib: Rush Sports 5
+http://tigerfights.xyz:80/0192613623/0269238101/1793270.m3u8
+#EXTINF:-1,Carib: Rush Sports 6
+http://tigerfights.xyz:80/0192613623/0269238101/1793269.m3u8
+#EXTINF:-1,Carib: Rush Sports 7
+http://tigerfights.xyz:80/0192613623/0269238101/1793268.m3u8
+#EXTINF:-1,DSTV: SuperSport Premier League
+http://tigerfights.xyz:80/0192613623/0269238101/2107268.m3u8
+#EXTINF:-1,HK: Now Sports 7
+http://tigerfights.xyz:80/0192613623/0269238101/3336115.m3u8
+#EXTINF:-1,HK: Now Sports 6
+http://tigerfights.xyz:80/0192613623/0269238101/3336116.m3u8
+#EXTINF:-1,HK: Now Sports 5
+http://tigerfights.xyz:80/0192613623/0269238101/3336117.m3u8
+#EXTINF:-1,HK: Now Sports 4
+http://tigerfights.xyz:80/0192613623/0269238101/3336118.m3u8
+#EXTINF:-1,HK: Now Sports 3
+http://tigerfights.xyz:80/0192613623/0269238101/3336119.m3u8
+#EXTINF:-1,HK: Now Sports 2
+http://tigerfights.xyz:80/0192613623/0269238101/3336120.m3u8
+#EXTINF:-1,HK: Now Sports 1
+http://tigerfights.xyz:80/0192613623/0269238101/3336121.m3u8
+#EXTINF:-1,HK: Now 668
+http://tigerfights.xyz:80/0192613623/0269238101/3336124.m3u8
+#EXTINF:-1,HK: Now Premier Sports 1
+http://tigerfights.xyz:80/0192613623/0269238101/3336125.m3u8
+#EXTINF:-1,HK: Now Premier Sports 2
+http://tigerfights.xyz:80/0192613623/0269238101/3336126.m3u8
+#EXTINF:-1,HK: Now Premier Sports 3
+http://tigerfights.xyz:80/0192613623/0269238101/3336127.m3u8
+#EXTINF:-1,HK: Now Premier Sports 4
+http://tigerfights.xyz:80/0192613623/0269238101/3336128.m3u8
+#EXTINF:-1,HK: Now Premier Sports 5
+http://tigerfights.xyz:80/0192613623/0269238101/3336129.m3u8
+#EXTINF:-1,HK: Now Premier Sports 6
+http://tigerfights.xyz:80/0192613623/0269238101/3336130.m3u8
+#EXTINF:-1,HK: NowTV 4K
+http://tigerfights.xyz:80/0192613623/0269238101/3337226.m3u8
+#EXTINF:-1,PC: Peacock Event 1
+http://tigerfights.xyz:80/0192613623/0269238101/3339084.m3u8
+#EXTINF:-1,PC: Peacock Event 2
+http://tigerfights.xyz:80/0192613623/0269238101/3339085.m3u8
+#EXTINF:-1,PC: Peacock Event 3
+http://tigerfights.xyz:80/0192613623/0269238101/3339086.m3u8
+#EXTINF:-1,PC: Peacock Event 4
+http://tigerfights.xyz:80/0192613623/0269238101/3339087.m3u8
+#EXTINF:-1,PC: Peacock Event 5
+http://tigerfights.xyz:80/0192613623/0269238101/3339088.m3u8
+#EXTINF:-1,PC: Peacock Event 6
+http://tigerfights.xyz:80/0192613623/0269238101/3339089.m3u8
+#EXTINF:-1,PC: Peacock Event 7
+http://tigerfights.xyz:80/0192613623/0269238101/3339090.m3u8
+#EXTINF:-1,PC: Peacock Event 8
+http://tigerfights.xyz:80/0192613623/0269238101/3339091.m3u8
+#EXTINF:-1,PC: Peacock Event 9
+http://tigerfights.xyz:80/0192613623/0269238101/3339092.m3u8
+#EXTINF:-1,PC: Peacock Event 10
+http://tigerfights.xyz:80/0192613623/0269238101/3339093.m3u8
+#EXTINF:-1,PC: Peacock Event 11
+http://tigerfights.xyz:80/0192613623/0269238101/3339094.m3u8
+#EXTINF:-1,PC: Peacock Event 12
+http://tigerfights.xyz:80/0192613623/0269238101/3339095.m3u8
+#EXTINF:-1,PC: Peacock Event 13
+http://tigerfights.xyz:80/0192613623/0269238101/3339096.m3u8
+#EXTINF:-1,Manchester United - EPL - Premier League
+http://tigerfights.xyz:80/0192613623/0269238101/2075205.m3u8
+#EXTINF:-1,MUTV FHD
+http://tigerfights.xyz:80/0192613623/0269238101/2485122.m3u8
